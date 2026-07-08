@@ -1,2 +1,5 @@
-# test5-engineering-college-raj-kumar-cse13
-Bootcamp Repository for Cyber Security Analyst (roles) - Student: Test5-Engineering-College-Raj-Kumar-CSE13
+# Cyber Security Analyst Bootcamp
+
+Student: @Test5-Engineering-College-Raj-Kumar-CSE13
+
+AI-Guided roadmap and instructions.
